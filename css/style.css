@@ -13,9 +13,10 @@ h1 {
 }
 
 h2{
-font-family: 'Montserrat', sans-serif;
-font-size: 2.5rem;
-color:  #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  font-weight: normal;
 
 }
 
@@ -53,4 +54,24 @@ img.bottom-cloud{
   position: absolute;
   bottom: 300px;
   left: 300px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.draw-image{
+  width: 25%;
+  float: left;
+  margin-right: 25px;
+  
+}
+
+.art-image{
+  width: 25%;
+  float: right;
+  margin-left: 25px;
 }
