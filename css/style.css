@@ -37,13 +37,6 @@ a {
 
 }
 
-.middle-container{
- }
-
-.bottom-container{
-
-}
-
 img.top-cloud{
   position: absolute;
   left: 760px;
@@ -74,4 +67,12 @@ img.bottom-cloud{
   width: 25%;
   float: right;
   margin-left: 25px;
+}
+
+.icon {
+  width: 15%;
+  background-color: #E4F9F5;
+  border-radius: 100%;
+  margin-top: 50px;
+  text-align: center;
 }
