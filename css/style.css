@@ -18,6 +18,7 @@ h2{
   color:  #66BFBF;
   font-weight: normal;
 
+
 }
 
 h3{
@@ -28,6 +29,15 @@ h3{
 a {
   color: #11999E;
 }
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #c6e7e7;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+
 /*----------------CONTAINERS CLASS------------------*/
 
 .top-container{
